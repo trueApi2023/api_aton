@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "86036010860",
+    "firebase_url": "https://aton-play-default-rtdb.firebaseio.com",
+    "project_id": "aton-play",
+    "storage_bucket": "aton-play.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86036010860:android:846be9d44e3ea77f6b0549",
+        "android_client_info": {
+          "package_name": "com.aton.playbr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86036010860-uurffrbggp41cddhth172235bq5d7ta9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACJDLS800iw7O4t1bfXnHlYSBw7WuvjS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86036010860-uurffrbggp41cddhth172235bq5d7ta9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
